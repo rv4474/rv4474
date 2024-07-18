@@ -18,23 +18,26 @@
 <a href="https://www.leetcode.com/rv4474990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rv4474990" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/31577cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="31577cse" height="30" width="40" /></a>
 </p>
+</br>
 
 💻 **Languages and Tools:** 🛠️<br>
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+<br>
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;&nbsp;&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)&nbsp;&nbsp;&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)&nbsp;&nbsp;&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)&nbsp;&nbsp;&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
+
 
 
 <h3 align="left">GitHub Stats:</h3>
