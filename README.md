@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;&nbsp;&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;&nbsp;&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)&nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,8 +48,8 @@
 
 - **Programming Languages**: Java, JavaScript, SQL, Python, C/C++, HTML, CSS.
 - **IT Constructs**: Data Structures and Algorithms, Object Oriented Programming, DBMS.
-- **Tools**: VS Code, GitHub, MySQL, MongoDB Compass.
-- **Development**: ReactJS, Express, Tailwind CSS, MongoDB.
+- **Tools**: VS Code, GitHub, MySQL.
+- **Development**: ReactJS, Express, Tailwind CSS.
 
 ---
 
