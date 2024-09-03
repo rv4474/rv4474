@@ -1,5 +1,4 @@
 ***Feel free to contact me. I am always here ...***
-<h3>My name is Rajan Verma</h3> 
 <h3 align="center">I'm a passionate software developer and an enthusiastic frontend developer from India. I thrive on crafting dynamic and visually appealing user experiences. Let's build something amazing together!</h3>
 
 - 📫 How to reach me: **rajanverma1109@gmail.com**
