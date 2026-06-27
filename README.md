@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate software developer and an enthusiastic full stack developer from India. I thrive on crafting dynamic and visually appealing user experiences. Let's build something amazing together!</h3>
  
 - 📫 How to reach me: **rajanverma1109@gmail.com**
-- 💬 Ask me about **JAVA, React, JavaScript, Frontend Development**
+- 💬 Ask me about **C#, ASP.Net, JAVA, React, JavaScript, Frontend Development**
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rv4474&show_icons=true&locale=en&layout=compact" alt="rv4474" />
